@@ -1,1 +1,2 @@
-print("I have headache !!")
+print("I have headache !!"
+      "")
